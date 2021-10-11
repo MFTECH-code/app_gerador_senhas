@@ -37,7 +37,7 @@ export default function App() {
   }
   
   const mostrarSenha = () => {
-    gerarSenha(8)
+    gerarSenha(12)
   }
 
   return (
